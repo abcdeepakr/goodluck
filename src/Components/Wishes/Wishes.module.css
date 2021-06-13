@@ -1,0 +1,33 @@
+.studentButton {
+  background-color: #ffc107; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  border-radius: 10px;
+  font-weight: 700;
+  margin: 5px;
+}
+.candidateButton {
+  background-color: #1eae98; /* Green */
+  border: none;
+  color: white;
+  font-weight: 700;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.Wish {
+  width: 70%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
